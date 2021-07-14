@@ -12,9 +12,9 @@
 - - [x] NodeJS
 - - [x] Java
 - - [ ] Elixir/Phoenix
-- - [ ] Typescript
+- - [ ] Typescript  
   
-  
+
 ✅ I currently have my 
 - [x] Security+
 - [ ] CCNA
