@@ -1,6 +1,4 @@
-# Hi there 👋
-
-## I'm Chaz (Chuckee)
+# Aloha 🤙🏽
 
 ✨ I'm currently learning || working with
 - - [x] Javascript
