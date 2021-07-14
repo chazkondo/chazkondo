@@ -13,7 +13,8 @@
 - - [x] Java
 - - [ ] Elixir/Phoenix
 - - [ ] Typescript
-
+  
+  
 ✅ I currently have my 
 - [x] Security+
 - [ ] CCNA
