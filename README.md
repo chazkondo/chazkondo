@@ -1,8 +1,8 @@
-### Hi there 👋
+# Hi there 👋
 
 ## I'm Chaz (Chuckee)
 
-- ✨ I'm currently learning || working with
+✨ I'm currently learning || working with
 - - [x] Javascript
 - - [x] React
 - - [x] NextJS
