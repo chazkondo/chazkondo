@@ -14,7 +14,7 @@
 - - [ ] Elixir/Phoenix
 - - [ ] Typescript
 
-- ✅ I currently have my 
+✅ I currently have my 
 - [x] Security+
 - [ ] CCNA
 - [ ] Sysa+
