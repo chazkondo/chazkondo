@@ -1,15 +1,10 @@
 # Aloha 🤙🏽
 
 ✨ I'm currently learning || working with
-- - [x] Javascript
-- - [x] React
-- - [x] NextJS
-- - [x] Gatsby
-- - [x] Emotion
-- - [x] SASS
+- - [x] NextJS && Gatsby
+- - [x] Emotion && SASS
 - - [x] AWS
 - - [x] Docker
-- - [x] NodeJS
 - - [x] Java
 - - [ ] Elixir/Phoenix
 - - [ ] Typescript  
