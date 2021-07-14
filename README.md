@@ -22,7 +22,7 @@
 - - [ ] C++  
   
   
-📚 I'm currently learning
+📚 Courses I'm currently taking
 - - [x] iOS & Swift - The Complete iOS App Development Bootcamp
 - - [x] Interactive maps with Mapbox!
 - - [x] Fullstack Advanced React and GraphQL
