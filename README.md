@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**chazkondo/chazkondo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Chaz (Chuckee)
 
-Here are some ideas to get you started:
+- ✨ I'm currently learning || working with
+- [x] Javascript
+- [x] React
+- [x] NextJS
+- [x] Gatsby
+- [x] Emotion
+- [x] SASS
+- [x] AWS
+- [x] Docker
+- [x] NodeJS
+- [x] Java
+- [ ] Elixir/Phoenix
+- [ ] Typescript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✅ I currently have my 
+- [x] Security+
+- [ ] CCNA
+- [ ] Sysa+
+- [ ] C++
