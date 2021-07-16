@@ -7,14 +7,14 @@
 - - [x] Docker
 - - [x] Java
 - - [ ] Elixir/Phoenix
-- - [ ] Typescript  
+- - [ ] Typescript 
+- - [ ] C++  
   
 
 ✅ I currently have my 
 - - [x] Security+
 - - [ ] CCNA
 - - [ ] Sysa+
-- - [ ] C++  
   
   
 📚 Courses I'm currently taking
