@@ -1,5 +1,7 @@
 # Aloha 🤙🏽
 
+  ![Chaz's GitHub stats](https://github-readme-stats-ashen-two.vercel.app/api?username=chazkondo&&count_private=true&&theme=dark)
+
 ✨ I'm currently learning || working with
 - - [x] NextJS && Gatsby
 - - [x] Emotion && SASS
@@ -24,8 +26,6 @@
 - - [ ] Epic React - Kent C Dodds
 - - [ ] Automated  Software Testing with Puppeteer  
 
-![Chaz's GitHub stats](https://github-readme-stats-ashen-two.vercel.app/api?username=chazkondo&&count_private=true&&theme=dark)
-  
-   
+
 🔥 You can find me on [Hackerrank](https://www.hackerrank.com/chazkondo?hr_r=1), (beginning to play with) [Leetcode](https://leetcode.com/chazkondo/), and lurking on Stack Overflow.
 
