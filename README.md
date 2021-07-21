@@ -1,6 +1,6 @@
 # Aloha 🤙🏽
 
-  ![Chaz's GitHub stats](https://github-readme-stats-ashen-two.vercel.app/api?username=chazkondo&&count_private=true&&theme=dark)
+  ![Chaz's GitHub stats](https://github-readme-stats-ashen-two.vercel.app/api?username=chazkondo&&count_private=true&&theme=dark&&hide=contribs)
 
 ✨ I'm currently learning || working with
 - - [x] NextJS && Gatsby
