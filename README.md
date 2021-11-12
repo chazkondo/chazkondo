@@ -27,5 +27,5 @@
 - - [ ] Automated  Software Testing with Puppeteer  
 
 
-🔥 You can find me on [Hackerrank](https://www.hackerrank.com/chazkondo?hr_r=1), (beginning to play with) [Leetcode](https://leetcode.com/chazkondo/)
+🔥 You can find me on [Hackerrank](https://www.hackerrank.com/chazkondo?hr_r=1)
 
