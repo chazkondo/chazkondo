@@ -8,8 +8,8 @@
 - - [x] AWS
 - - [x] Docker
 - - [x] Java
+- - [x] Typescript 
 - - [ ] Elixir/Phoenix
-- - [ ] Typescript 
 - - [ ] C++  
   
 
@@ -23,6 +23,7 @@
 - - [x] iOS & Swift - The Complete iOS App Development Bootcamp
 - - [x] Interactive maps with Mapbox!
 - - [x] Fullstack Advanced React and GraphQL
+- - [x] Algo Expert
 - - [ ] Epic React - Kent C Dodds
 - - [ ] Automated  Software Testing with Puppeteer  
 
