@@ -3,14 +3,12 @@
   ![Chaz's GitHub stats](https://github-readme-stats-ashen-two.vercel.app/api?username=chazkondo&&count_private=true&&theme=dark&&hide=contribs)
 
 ✨ I'm currently working with
-- - [x] NextJS && Gatsby
-- - [x] Emotion && SASS
+- - [x] React && NextJS || Angular
+- - [x] Emotion && SASS || Bootstrap
 - - [x] AWS
 - - [x] Docker
-- - [x] Java
-- - [x] Typescript 
-- - [ ] Elixir/Phoenix
-- - [ ] C++  
+- - [x] Python
+- - [x] Typescript
   
 
 ✅ I currently have my 
