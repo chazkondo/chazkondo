@@ -29,5 +29,3 @@
 - - [ ] [Epic React - Kent C Dodds](https://epicreact.dev)
 - - [ ] [Automated  Software Testing with Puppeteer](https://www.udemy.com/course/automated-headless-browser-testing-with-puppeteer/)  
 
-
-Want to [1337 code](https://leetcode.com/chazkondo/) with me? Join my freshly made [3L1TE_C()D3 || Elite Code Discord](https://discord.gg/SXMV4SG2) and help me cultivate a new community!
